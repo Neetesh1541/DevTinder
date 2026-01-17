@@ -1,4 +1,4 @@
-# CodeMate
+# CodeMate..
 
 CodeMate is a developer matching platform that connects developers based on their GitHub profiles, tech stacks, and coding interests.
 
